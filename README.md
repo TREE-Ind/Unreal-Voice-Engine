@@ -8,3 +8,11 @@ This repo will consist of demo projects, blueprints, and AI skills that facilita
 Unreal Engine
 
 Mycroft AI
+
+# Demo Videos
+
+Controlling lights - https://www.youtube.com/watch?v=vwu2gXPhJQM
+
+Controlling DragonFly Virtual Cam - https://www.youtube.com/watch?v=IhxlkIEfxKw
+
+Controlling entire scenes / levels - https://www.youtube.com/watch?v=C-BT-VkM_qQ
